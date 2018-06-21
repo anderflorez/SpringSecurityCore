@@ -19,7 +19,8 @@
            <property name="basename" value="messages"/>
         </bean>
            
-        <import resource="/application.xml"/>
+        <!-- No needed as a listener was set up in the web.xml -->
+        <!-- <import resource="/application.xml"/> -->
             
         <bean class="org.springframework.web.servlet.view.ResourceBundleViewResolver">
         	<property name="basename" value="views"/>
