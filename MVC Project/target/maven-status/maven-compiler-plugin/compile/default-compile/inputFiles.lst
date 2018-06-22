@@ -1,4 +1,5 @@
 /home/anderson/Documents/eclipse workspaces/SpringSecurityCore/git/MVC Project/src/main/java/com/virtualpairprogrammers/control/CreateBookController.java
+/home/anderson/Documents/eclipse workspaces/SpringSecurityCore/git/MVC Project/src/main/java/com/virtualpairprogrammers/domain/UserFormObject.java
 /home/anderson/Documents/eclipse workspaces/SpringSecurityCore/git/MVC Project/src/main/java/com/virtualpairprogrammers/control/BookManagementController.java
 /home/anderson/Documents/eclipse workspaces/SpringSecurityCore/git/MVC Project/src/main/java/com/virtualpairprogrammers/validation/BookValidator.java
 /home/anderson/Documents/eclipse workspaces/SpringSecurityCore/git/MVC Project/src/main/java/com/virtualpairprogrammers/services/BookService.java
@@ -7,6 +8,7 @@
 /home/anderson/Documents/eclipse workspaces/SpringSecurityCore/git/MVC Project/src/main/java/com/virtualpairprogrammers/services/AccountsServiceMockImpl.java
 /home/anderson/Documents/eclipse workspaces/SpringSecurityCore/git/MVC Project/src/main/java/com/virtualpairprogrammers/domain/ShoppingCart.java
 /home/anderson/Documents/eclipse workspaces/SpringSecurityCore/git/MVC Project/src/main/java/com/virtualpairprogrammers/domain/Customer.java
+/home/anderson/Documents/eclipse workspaces/SpringSecurityCore/git/MVC Project/src/main/java/com/virtualpairprogrammers/control/CreateAccountController.java
 /home/anderson/Documents/eclipse workspaces/SpringSecurityCore/git/MVC Project/src/main/java/com/virtualpairprogrammers/services/CustomerNotFoundException.java
 /home/anderson/Documents/eclipse workspaces/SpringSecurityCore/git/MVC Project/src/main/java/com/virtualpairprogrammers/services/BookServiceMockImpl.java
 /home/anderson/Documents/eclipse workspaces/SpringSecurityCore/git/MVC Project/src/main/java/com/virtualpairprogrammers/control/CartManagementController.java
@@ -14,6 +16,7 @@
 /home/anderson/Documents/eclipse workspaces/SpringSecurityCore/git/MVC Project/src/main/java/com/virtualpairprogrammers/views/BooksReportPdf.java
 /home/anderson/Documents/eclipse workspaces/SpringSecurityCore/git/MVC Project/src/main/java/com/virtualpairprogrammers/client/SpringClient.java
 /home/anderson/Documents/eclipse workspaces/SpringSecurityCore/git/MVC Project/src/main/java/com/virtualpairprogrammers/validation/ISBNValidator.java
+/home/anderson/Documents/eclipse workspaces/SpringSecurityCore/git/MVC Project/src/main/java/com/virtualpairprogrammers/security/UsernameRememberingAuthenticationFailureHandler.java
 /home/anderson/Documents/eclipse workspaces/SpringSecurityCore/git/MVC Project/src/main/java/com/virtualpairprogrammers/services/AccountsService.java
 /home/anderson/Documents/eclipse workspaces/SpringSecurityCore/git/MVC Project/src/main/java/com/virtualpairprogrammers/validation/ISBN.java
 /home/anderson/Documents/eclipse workspaces/SpringSecurityCore/git/MVC Project/src/main/java/com/virtualpairprogrammers/domain/Book.java

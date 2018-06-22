@@ -27,8 +27,8 @@
    </context-param>
    
    
-   <!--  This filter is used by Spring Security to intercept all URL patterns -->
-   <filter>
+	<!--  This filter is used by Spring Security to intercept all URL patterns -->
+	<filter>
 		<filter-name>springSecurityFilterChain</filter-name>
 		<filter-class>org.springframework.web.filter.DelegatingFilterProxy</filter-class>
 	</filter>

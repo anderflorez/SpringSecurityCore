@@ -12,5 +12,6 @@
 		<li><a href='findByAuthor.jsp'>Find By Author</a></li>
 		<li><a href='addNewBook.do'>Add a New Book</a></li>
 		<li><a href='<c:url value="logout"/>'>Logout</a></li>
+		<li><a href='<c:url value="createAccount.do"/>'>Create Account</a></li>
 	</ul>
 </div>
