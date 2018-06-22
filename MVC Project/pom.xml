@@ -129,7 +129,14 @@
 		<groupId>org.springframework.security</groupId>
 		<artifactId>spring-security-openid</artifactId>
 		<version>[4.0.0,)</version>
-	</dependency>    
+	</dependency>
+
+	<dependency>
+		<groupId>org.springframework.security</groupId>
+		<artifactId>spring-security-taglibs</artifactId>
+		<version>[4.0.0,)</version>
+	</dependency>
+	
     
     <!-- although SpringMVC declares validation as a dependency, it is set to 
          provided scope, so it is not a transisitive dependency -->

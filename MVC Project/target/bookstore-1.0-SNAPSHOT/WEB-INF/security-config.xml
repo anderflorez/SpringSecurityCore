@@ -20,7 +20,7 @@
 
 	<http>
 		<!-- Turn off csrf -->
-		<csrf  disabled="true"/>
+		<!-- <csrf  disabled="true"/> -->
 		
 		<!-- running security with permit all configuration -->
 		<intercept-url pattern="/login.jsp" access="permitAll"/>
